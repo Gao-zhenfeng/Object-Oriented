@@ -44,3 +44,13 @@
 /TestString/Debug
 /TestVector/Debug
 /Typeid/Debug
+/.vs
+/BinaryIO/Debug/BinaryIO.tlog
+/BinaryIO/Debug
+/BufferedIO/Debug
+/FileInput/Debug
+/FileIO/Debug
+/FileOpenMode/Debug
+/FileOutput/Debug
+/FormatOutput/Debug
+/GetlineDemo/Debug
