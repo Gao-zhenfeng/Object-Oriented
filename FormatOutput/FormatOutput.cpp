@@ -19,6 +19,8 @@ int main()
 	double pi = 3.141592653;
 	cout << std::setprecision(6) << pi << endl;//setprecision()对后面输出都有效
 	cout << std::setprecision(6) << std::fixed << pi << endl;//使用fixed后小数点后位数是n
+	int num = 10;
+	cout << num << endl;
 	double y = 3.0;
 	cout << y << endl;
 	cout << std::showpoint << y << endl;

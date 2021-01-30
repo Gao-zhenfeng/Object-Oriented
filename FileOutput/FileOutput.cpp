@@ -17,6 +17,7 @@ using std::ofstream;
 using std::cout;
 using std::endl;
 namespace fs = std::filesystem;
+
 int main()
 {
 	fs::path p{ "score.txt" };
