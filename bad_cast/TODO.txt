@@ -1,0 +1,7 @@
+本部分主要展示内容如下：
+
+展示侧向转换失败抛出的bad_cast异常类
+
+1. 创建基类 Student
+2. 创建派生类Undergraduate和Graduate
+3. 主函数中用dynamic_cast 将Undetgtaduate类型转换为Graduate类型
